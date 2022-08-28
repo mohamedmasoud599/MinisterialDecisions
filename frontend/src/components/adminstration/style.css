@@ -1,0 +1,31 @@
+.ant-message-notice-content {
+  padding: 15px;
+  font-size: 18px;
+}
+.ant-tabs-nav-wrap {
+  display: none !important;
+}
+
+.ant-form-rtl .ant-form-item-label {
+  width: 100%;
+  text-align: right !important;
+}
+.ant-image-preview-root {
+  z-index: 999999;
+}
+/* .ant-form
+  .ant-row
+  .ant-form-item-control-input
+  .ant-form-item-control-input-content
+  input {
+  padding: 0 !important;
+  font-size: 18px !important;
+} */
+
+/* .ant-form
+  .ant-row
+  .ant-form-item-control-input
+  .ant-form-item-control-input-content
+  .ant-picker {
+  width: 326px !important;
+} */

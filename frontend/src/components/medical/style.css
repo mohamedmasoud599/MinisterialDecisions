@@ -1,0 +1,41 @@
+.main-container {
+  margin: auto;
+  background-color: #f0f2f5;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+.cam-dev {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.ant-form-item-label {
+  width: 100%;
+  text-align: right !important;
+}
+.ant-image-preview-root {
+  z-index: 999999;
+  position: absolute;
+}
+.ant-descriptions-bordered .ant-descriptions-view {
+  border: 2px solid rgb(95, 95, 95) !important;
+}
+
+.img-container {
+  display: flex;
+  padding: 0;
+}
+
+.discard-icon {
+  cursor: pointer;
+  color: #818181 !important;
+  position: absolute;
+  top: 35px;
+  right: 10px;
+  z-index: 1;
+}
+
+.discard-icon:hover {
+  color: #f1f1f1 !important;
+}
