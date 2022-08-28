@@ -1,0 +1,8 @@
+node_modules
+dist
+<<<<<<< HEAD
+public
+=======
+public
+build
+>>>>>>> 4714c243cbae8f2ff3eef9a26c6f7bdaa9a6b539
